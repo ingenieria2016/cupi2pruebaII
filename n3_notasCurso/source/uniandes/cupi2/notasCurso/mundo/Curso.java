@@ -1,13 +1,14 @@
 /**
  * ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  * $Id$
- * Universidad de los Andes (Bogotá - Colombia)
- * Departamento de Ingeniería de Sistemas y Computación 
+ * Universidad de los Andes (BogotÃ¡ - Colombia)
+ * Departamento de IngenierÃ­a de Sistemas y ComputaciÃ³n 
  * Licenciado bajo el esquema Academic Free License version 2.1
  *
  * Proyecto Cupi2
  * Ejercicio: n3_notasCurso
  * Autor: Pablo Barvo - 09-Sep-2005
+ * gfhdguihdfgdf
  * ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  */
 
@@ -51,7 +52,7 @@ public class Curso
     }
 
     // -----------------------------------------------------------------
-    // Métodos
+    // MÃ©todos
     // -----------------------------------------------------------------
 
     /**
@@ -70,11 +71,11 @@ public class Curso
 
     /**
      * Devuelve el numero de estudiantes que tienen la nota mayor al promedio
-     * @return Número de estudiantes que tienen la nota mayor al promedio. número >= 0
+     * @return NÃºmero de estudiantes que tienen la nota mayor al promedio. nÃºmero >= 0
      */
     public int cuantosEncimaPromedio( )
     {
-        // Saca el promedio utilizando el método promedio()
+        // Saca el promedio utilizando el mÃ©todo promedio()
         double promedio = promedio( );
 
         // Calcula el numero notas mayores
@@ -91,7 +92,7 @@ public class Curso
 
     /**
      * Devuelve la nota de un estudiante del curso
-     * @param numEstudiante Número del estudiante : 1 <= estudiante <= 12
+     * @param numEstudiante NÃºmero del estudiante : 1 <= estudiante <= 12
      * @return Nota del estudiante numEstudiante
      */
     public double darNota( int numEstudiante )
@@ -101,7 +102,7 @@ public class Curso
 
     /**
      * Cambia la nota de un estudiante en el curso
-     * @param numEstudiante Número del estudiante : 1 <= estudiante <= 12
+     * @param numEstudiante NÃºmero del estudiante : 1 <= estudiante <= 12
      * @param nota Nota del estudiante 0 <= nota <= 5
      */
     public void cambiarNota( int numEstudiante, double nota )
@@ -110,11 +111,11 @@ public class Curso
     }
 
     // -----------------------------------------------------------------
-    // Puntos de Extensión
+    // Puntos de ExtensiÃ³n
     // -----------------------------------------------------------------
 
     /**
-     * Método para la extensión 1
+     * MÃ©todo para la extensiÃ³n 1
      * @return Respuesta 1
      */
     public String metodo1( )
@@ -123,7 +124,7 @@ public class Curso
     }
 
     /**
-     * Método para la extensión2
+     * MÃ©todo para la extensiÃ³n2
      * @return Respuesta 2
      */
     public String metodo2( )
