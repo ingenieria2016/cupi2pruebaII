@@ -9,6 +9,8 @@
  * Ejercicio: n3_notasCurso
  * Autor: Pablo Barvo - 09-Sep-2005
  * gfhdguihdfgdf
+ * estoy escribienp
+ * 
  * ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  */
 
