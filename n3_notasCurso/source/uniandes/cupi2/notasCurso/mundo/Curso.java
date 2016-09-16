@@ -16,6 +16,12 @@
 
 package uniandes.cupi2.notasCurso.mundo;
 
+ autores: oscar lasso
+          santiago erazo
+          katherin mier
+          daira huertas
+          
+
 /**
  * Clase que representa un Curso
  */
